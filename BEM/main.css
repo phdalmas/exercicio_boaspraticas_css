@@ -1,0 +1,17 @@
+.produto__imagem {
+  width: 100%;
+}
+.produto__nome {
+  font-size: 1.2em;
+  margin: 8px 0;
+}
+.produto__descricao {
+  color: gray;
+}
+.produto--em-destaque {
+  border: 2px solid rgb(105, 55, 42);
+  padding: 8px;
+  background-color: #a13939;
+}
+
+/*# sourceMappingURL=main.css.map */
